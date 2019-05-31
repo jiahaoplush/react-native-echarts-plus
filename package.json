@@ -1,0 +1,23 @@
+{
+    "name": "react-native-echarts-plus",
+    "version": "1.0.2",
+    "description": "react-native-echarts-plus",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native",
+        "echarts",
+        "echarts4",
+        "react-native-echarts",
+        "react-native-echarts-plus"
+    ],
+    "author": "plush",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jiahaoplush/react-native-echarts-plus"
+    },
+    "homepage": "https://github.com/jiahaoplush/react-native-echarts-plus#readme"
+}
